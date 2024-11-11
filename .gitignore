@@ -1,0 +1,7 @@
+# ignore everything by default
+*
+# do look inside directory
+!*/
+!.gitignore
+!*/PKGBUILD
+
