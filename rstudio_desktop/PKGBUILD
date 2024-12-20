@@ -1,8 +1,8 @@
 # Maintainer: Arun Khattri <arunkhattri@outlook.com>
 pkgname=rstudio-desktop-bin
-pkgver=2024.09.1.394
+pkgver=2024.12.0.467
 _pkgver=`echo $pkgver | sed 's/\(.*\)\./\1-/'`
-pkgrel=1
+pkgrel=0
 pkgdesc="An integrated development environment (IDE) for R (binary from RStudio official repository)"
 arch=('x86_64')
 license=('AGPL v3')
